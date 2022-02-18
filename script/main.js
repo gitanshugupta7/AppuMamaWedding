@@ -135,7 +135,7 @@ const animationTimeline = () => {
         rotation: 90,
         x: 8
       },
-      "+=0.4"
+      "+=0.8"
     )
     .to(
       ".idea-5",
